@@ -1,0 +1,6 @@
+# Archivos temporales de Office
+~$*
+
+# Python
+__pycache__/
+*.pyc
